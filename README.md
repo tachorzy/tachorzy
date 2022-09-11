@@ -1,4 +1,4 @@
-# Hey, I'm Tariq 👋
+## Hey, I'm Tariq 👋
 
 ### I'm a third year Computer Science major trying to branch out in the everchanging world of tech.
 <!--

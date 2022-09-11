@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey, I'm Tariq 👋
+### I'm a third year Computer Science major trying to branch out in the everchanging world of tech.
 <!--
 **tachorzy/tachorzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

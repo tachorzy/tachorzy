@@ -5,7 +5,7 @@
 <p><samp>I'm an aspiring web-developer with a love for front-end web development and tailoring sleek and intuitive UI/UX designs.🌐</samp></p>
 <samp>And as you might notice from a common theme in my projects, I'm quite obsessed about travel.✈️</samp>
 
-### What I've learned so far:
+#### Here's what I've dabbled with so far:
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
